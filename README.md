@@ -2,7 +2,7 @@
 
 Repositório criado a partir do template de desafio sobre os fundamentos do Nodejs no Go Stack 11 da Rocketseat. O objetivo deste repositório é entregar o desafio dentro da plataforma através deste link.
 
-## Escopo do desafio (conteúdo oriundo do repositório de template)
+## Escopo do desafio (<small>conteúdo oriundo do readme do repositório com o desafio</small>)
 
 <img alt="GoStack" src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios.png" />
 
